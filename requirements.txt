@@ -10,3 +10,4 @@ fastbook
 Pillow
 gdown
 opencv-python-headless
+1plY1yS4oApifKpJ8DWPQvYrEtuS8xHeM
