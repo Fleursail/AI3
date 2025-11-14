@@ -70,7 +70,7 @@ st.markdown("---")
 CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
 
      labels[0]: {
-       "texts": ["용서받지 못한 자", "잊히지 못한 ", "여명의 성위"],
+       "texts": ["용서받지 못한 자", "이부 동생", "바람의 검술"],
        "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
        "videos": ["https://youtu.be/XXXXXXXXXXX"]
      },
