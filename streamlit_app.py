@@ -71,8 +71,18 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
 
      labels[0]: {
        "texts": ["용서받지 못한 자", "이부 동생", "바람의 검술"],
-       "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
-       "videos": ["https://youtu.be/XXXXXXXXXXX"]
+       "images": ["", "https://.../jjampong2.jpg"],
+       "videos": ["https://youtu.be/7xmgRLTjxIw?si=uUQTp3M3C1rCmJrW"]
+     },
+    labels[1]: {
+       "texts": ["용서받지 못한 자", "이부 동생", "바람의 검술"],
+       "images": ["https://i.namu.wiki/i/K6WN1ryZ3wiwO1eV8sn4J4zvJZ6hZDuFnGXG3fiLY77MGHwkoKumW39R38ZFwuBIKUkCfapSx2LSUOitDwN6Qw.webp", "https://opgg-static.akamaized.net/meta/images/lol/15.22.1/champion/splash/Yasuo_9.jpg?image=q_auto:good,f_webp,w_1080&v=1763111049"],
+       "videos": ["https://youtu.be/7xmgRLTjxIw?si=uUQTp3M3C1rCmJrW"]
+     },
+    labels[2]: {
+       "texts": ["용서받지 못한 자", "이부 동생", "바람의 검술"],
+       "images": ["", "https://.../jjampong2.jpg"],
+       "videos": ["https://youtu.be/7xmgRLTjxIw?si=uUQTp3M3C1rCmJrW"]
      },
 }
 
