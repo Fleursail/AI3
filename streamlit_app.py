@@ -81,8 +81,8 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
      },
     labels[2]: {
        "texts": ["여명의 성위", "대가리 꽃밭", "쿨쿨 헤롱헤롱 방울"],
-       "images": ["", "https://.../jjampong2.jpg"],
-       "videos": ["https://youtu.be/7xmgRLTjxIw?si=uUQTp3M3C1rCmJrW"]
+       "images": ["https://i.namu.wiki/i/osL_I9dSDCK4xbfgVvUr8Lzg6i28RThhfS3woTkfYzzW-hMSZE2HQt8CjzQlN0EbD5Vzj01rtPZYvCJG477dRQ.webp", "https://i.namu.wiki/i/EJzaHxsMnOJIufW7SjeMWE5cOjdQgIScUJzEa_ABje72OdXz20abAlTRFtPyatFBrLMZg6gbXdhNsRArbuIx8g.webp"],
+       "videos": ["https://youtu.be/BDi29cwLY_I?si=2tAM6ea0zhHMUIcI"]
      },
 }
 
